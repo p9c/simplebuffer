@@ -5,7 +5,8 @@ import (
 	"strings"
 
 	log "github.com/p9c/logi"
-	"github.com/p9c/pod/pkg/routeable"
+
+	"github.com/p9c/simplebuffer/routeable"
 
 	"github.com/p9c/simplebuffer"
 	"github.com/p9c/simplebuffer/IP"

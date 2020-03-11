@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 
 	log "github.com/p9c/logi"
-	"github.com/p9c/pod/pkg/chain/wire"
+	"github.com/p9c/wire"
 )
 
 type Transaction struct {

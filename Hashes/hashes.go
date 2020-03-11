@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"sync"
 
-	chainhash "github.com/p9c/pod/pkg/chain/hash"
+	"github.com/p9c/chainhash"
 )
 
 type Hashes struct {
