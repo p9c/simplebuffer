@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"github.com/p9c/pod/pkg/chain/wire"
 	log "github.com/p9c/logi"
+	"github.com/p9c/pod/pkg/chain/wire"
 )
 
 type Block struct {
@@ -26,7 +26,7 @@ func (B *Block) Decode(b []byte) (out []byte) {
 	// log.L.Traces(b)
 	if len(b) >= 4 {
 		B.Length = binary.BigEndian.Uint32(b[:4])
-		//log.L.Debug("length", B.Length)
+		// log.L.Debug("length", B.Length)
 		if len(b) >= 4+int(B.Length) {
 			B.Bytes = b[4 : 4+B.Length]
 			if len(b) > 4+int(B.Length) {
@@ -34,7 +34,7 @@ func (B *Block) Decode(b []byte) (out []byte) {
 			}
 		}
 	}
-	//log.L.Traces(out)
+	// log.L.Traces(out)
 	return
 }
 

@@ -1,12 +1,14 @@
 package IPs
 
 import (
-	log "github.com/p9c/logi"
-	"github.com/p9c/pod/pkg/routeable"
-	"github.com/p9c/pod/pkg/simplebuffer"
-	"github.com/p9c/pod/pkg/simplebuffer/IP"
 	"net"
 	"strings"
+
+	log "github.com/p9c/logi"
+	"github.com/p9c/pod/pkg/routeable"
+
+	"github.com/p9c/simplebuffer"
+	"github.com/p9c/simplebuffer/IP"
 )
 
 type IPs struct {

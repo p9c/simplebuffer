@@ -3,7 +3,7 @@ package Hashes
 import (
 	"encoding/binary"
 	"sync"
-	
+
 	chainhash "github.com/p9c/pod/pkg/chain/hash"
 )
 

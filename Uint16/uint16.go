@@ -7,7 +7,7 @@ import (
 
 	log "github.com/p9c/logi"
 
-	"github.com/p9c/pod/pkg/simplebuffer"
+	"github.com/p9c/simplebuffer"
 )
 
 type Uint16 struct {
