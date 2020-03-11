@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"sync"
 
-	blockchain "github.com/p9c/pod/pkg/chain"
+	blockchain "github.com/p9c/chain"
 )
 
 type Bitses struct {
