@@ -73,6 +73,8 @@ github.com/p9c/chainhash v0.0.2/go.mod h1:P+N9XRutS5Aw3MEC/sq6FIPzBFBmJ/+q4JiIXy
 github.com/p9c/fec v0.0.1/go.mod h1:NLldwLhzuyGcNV/5HvMf6eqqrba8tGXjX1sXBNFqAWU=
 github.com/p9c/fork v0.0.1 h1:Bvdc57OlK9tTymY+WXvUGjK5nxpDUQlVPBpicYIfypY=
 github.com/p9c/fork v0.0.1/go.mod h1:DZ7pRhtNJki/ETtBPmxXUkXQhGCWefc86HGo72gYehI=
+github.com/p9c/fork v0.0.2 h1:c15KC3qf3Q0Wy/NLdHz8dTEs03LJNYC2+u+RtzK4/J4=
+github.com/p9c/fork v0.0.2/go.mod h1:REFYIYusmOjf8GUBK459OT2+5JHXt8Js3fTYK1ga5U4=
 github.com/p9c/forkhash v0.0.1 h1:dg3lW5zMOP07SaJ/4dMBTy6xtGQ8mmZafk0B1X9kw28=
 github.com/p9c/forkhash v0.0.1/go.mod h1:+Wzl4ibnwGlUNaVjAIyiz7zMYAeFcsnzbP7izMDuMm8=
 github.com/p9c/forkhash v0.0.5 h1:fBJs/gQFKW7jR6/gQj/LNeqLSBonR5uOaUtumKXWBU4=
@@ -126,8 +128,8 @@ github.com/p9c/wallet v0.0.5/go.mod h1:wOfZOzLSBs8SE5p5OiH9L9rwbkNqYG0iiAmpL1A1F
 github.com/p9c/wallet v0.0.6/go.mod h1:URd9kgw66WRIRLL7HAMMQG8D1VpFPMzsN9AZyTu4n/k=
 github.com/p9c/wire v0.0.1 h1:r7AbdbKUpTDM4aLaEA7mkbbp6Wr1EroKsGlzTBkVs1M=
 github.com/p9c/wire v0.0.1/go.mod h1:h4hrfEay5AqZinex9Os1pSRuR3yT1TWAU7+Mq3uM8hI=
-github.com/p9c/wire v0.0.2 h1:nKyaQIIKGp/ZpLYCoija0z6EgDb9RvROFNfaWolbaOI=
-github.com/p9c/wire v0.0.2/go.mod h1:ausnf5hCQUfdILFQsnWNWIYln4WlV9WzsRyBjraFNRY=
+github.com/p9c/wire v0.0.3 h1:G+1Rt5GDWo60ZBLyTUoeSevBatkfa1WL2KMx6qIS4rE=
+github.com/p9c/wire v0.0.3/go.mod h1:2+oisWYtyW2wOqxesm1O3YwKLZGsbAqh5YVDzLxLDQ8=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/programmer10110/gostreebog v0.0.0-20170704145444-a3e1d28291b2 h1:gb6u48DzkRwDpNtqaQ+SQYNJ8G3epwf9uJHxtKXKHec=
